@@ -13,4 +13,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: https://github.com/Kyaw-Min-lwin/QR-code-component
-- Live Site URL: [](https://kyaw-min-lwin.github.io/QR-code-component/)
+- Live Site URL: ![](https://kyaw-min-lwin.github.io/QR-code-component/)
